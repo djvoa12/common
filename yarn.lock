@@ -5503,10 +5503,10 @@ ember-runtime-enumerable-includes-polyfill@^2.0.0:
     ember-cli-babel "^6.9.0"
     ember-cli-version-checker "^2.1.0"
 
-ember-simple-auth-token@^4.0.4:
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/ember-simple-auth-token/-/ember-simple-auth-token-4.0.4.tgz#661dba1e292336c67e51d43babf3b3df256f241f"
-  integrity sha512-3iO3mWde2WjSlKgRciqWOxZ7X0AuM6w81DWch3QwPXEA3G6idJj+H2j0Lbsf6xYqc5uRidKubauD/NdJgi66LQ==
+ember-simple-auth-token@^4.0.5:
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/ember-simple-auth-token/-/ember-simple-auth-token-4.0.5.tgz#697a845319e9a590458c973a4fde3466684260a9"
+  integrity sha512-4hZQXKUjikt2ZMT0QQ3IDHqkuoZe/VaThfTQTVwFsTDw+Ba39rrtjfLC1QVy2Hq+05AUNd8kO1VZZ75r+yFR8Q==
   dependencies:
     ember-cli-babel "^6.6.0"
     ember-fetch "^4.0.0 || ^5.0.0"
